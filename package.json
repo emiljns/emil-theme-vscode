@@ -1,0 +1,28 @@
+{
+	"name": "emil-theme",
+	"displayName": "Emil",
+	"version": "1.0.0",
+	"publisher": "emiljns",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/emiljns"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Emil",
+				"uiTheme": "vs-dark",
+				"path": "./emil.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 5559
+	}
+}

@@ -1,4 +1,4 @@
-![Screenshot](./Screnshot.png)
+![Screenshot](./Screenshot.png)
 
 # Emil
 
